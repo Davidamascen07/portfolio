@@ -53,7 +53,7 @@ const Projects = () => {
       description: 'Portfólio moderno desenvolvido com React, Vite e Tailwind CSS. Design responsivo, tema escuro, animações, formulário de contato integrado ao EmailJS e apresentação de projetos reais.',
       technologies: ['React', 'Vite', 'Tailwind CSS', 'EmailJS', 'Font Awesome'],
       image: reactImg,
-      demoUrl: 'https://seu-link-vercel.app',
+      demoUrl: 'https://portfolio-ecru-one-16.vercel.app',
       githubUrl: 'https://github.com/Davidamascen07/portfolio',
       category: 'Frontend'
     },
@@ -140,7 +140,7 @@ const Projects = () => {
         
         <div className="text-center mt-12">
           <a 
-            href="#" 
+            href="https://github.com/Davidamascen07" 
             className="inline-flex items-center px-6 py-3 border border-blue-600 text-blue-400 hover:bg-blue-900 hover:bg-opacity-30 rounded-lg font-medium transition-all"
           >
             Ver Todos os Projetos
